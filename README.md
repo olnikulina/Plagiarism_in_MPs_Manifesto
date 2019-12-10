@@ -6,4 +6,4 @@ Project consists of 3 parts:
 1. Web-scraping of all manifestors of candidates that was running for 2019 parlamentarian elections in local single-seat 
 constituency. 
 2. Processing of the downloaded programs from doc, docx and pdf-files to txt format. 
-3. Analysis of the similarity of texts using the method of N-grams (manifestos from 2019 elections were among each other and with manifestos from 2012 and 2014 elections. 
+3. Analysis of the similarity of texts using the method of N-grams.
